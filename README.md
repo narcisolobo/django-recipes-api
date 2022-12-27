@@ -1,4 +1,4 @@
-# django-recipes-api
+# Django Recipes API
 A Django REST API. Built for future reference.
 
 I really liked Django when I use it, and I miss it these days. I've been working mostly with an Express server on the back end. I like how un-opinionated it is, but there's a lot to be said for being able to get an API up and running even quicker than Express may let us. Just testing it out now.
